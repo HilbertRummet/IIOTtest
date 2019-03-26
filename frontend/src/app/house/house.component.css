@@ -1,0 +1,8 @@
+.example-card {
+    max-width: 1200px;
+  }
+  
+  .example-header-image {
+    background-image: url('http://shoemakers.se/utsida-big.jpg');
+    background-size: cover;
+  }
