@@ -12,6 +12,7 @@ https://docs.docker.com/compose/install/
 
 build docker images with 
 > docker-compose build
+
 Run project with 
 > docker-compose up
 
